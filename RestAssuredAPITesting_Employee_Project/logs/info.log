@@ -1,0 +1,1113 @@
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1305
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>2877d018d9213e30d224555ffba9fb05
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>3698
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>241f5ac9eacb476e2139c18a68970cb6
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2280
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1113
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>c208a656c9f1fafa0e3fe0febc1e646e
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - Response Body ==>io.restassured.internal.RestAssuredResponseImpl@47874b25
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2746
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>9ae0fee99bd31950a0a6c89d9ae94c1b
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2758
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>2be1fd83dfb9887c9c0e7d98225dfe82
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2871
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2087
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> JohnX
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 60800
+[main] INFO  EmployeeRestAPI  - Employee Age is==> oR
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> JohnB
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 83314
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 97
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> JohnA
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 74946
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 65
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> JohnQ
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 49073
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 37
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> JohnT
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 88780
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 34
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> Brada
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 17108
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 56
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>532f37a5d36f6c67e1e9ab27808265f5
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>871
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>9bce01b76f07061b72cd15e6e454f680
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>812
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>db262ef5fc8b9ade640da2f2e4d50f63
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>867
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>a55614aa66c4b0037e0e9072a7254d50
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>888
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1920
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1113
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>e98e8efab453f4cf81f47cbb3a08cdc8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>906
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradK
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 72450
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 01
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradK
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 14062
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 12
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC004_PUT_Update_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>5e205da2e06cf6a9de8bea782d4664a2
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>919
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1928
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>fd78304a60535dc2ca99d2b578e1ad4e
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>885
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradL
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 18748
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 56
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradK
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 17938
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 47
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC004_PUT_Update_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>a57360dcab0a756959ec347c21842c1c
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>902
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1862
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1113
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>5f33b7bc6196f5a65abd05a3c1404dc1
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>866
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradB
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 52129
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 11
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> Bradb
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 39692
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 49
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC004_PUT_Update_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>97d037dc6ea524aae6fb78f44252d7ee
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>926
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2829
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>ea66ff957c0da77847afee8a9eadb28b
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>921
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradX
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 92542
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 80
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> BradY
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 27382
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 11
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC004_PUT_Update_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>2d7efb85eaed37025200f167092c75a1
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>918
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>4042
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>text/html; charset=UTF-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>1062
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>749ce10d77f2fc0e8112c39d9e096c0e
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>903
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC002_GET_Single_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> Bradn
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 83803
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 89
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC003_POST_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Employee Name is==> Brade
+[main] INFO  EmployeeRestAPI  - Employee Salary is==> 39357
+[main] INFO  EmployeeRestAPI  - Employee Age is==> 89
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==><script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=3&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=3&shcb=32', false, [], true, false, false, false);
+</script>
+
+<script>var _audins_dom="restapiexample_com",_audins_did=133674;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-3");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.restapiexample_com,DomainId.133674" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(a){for(var b=0;b<document.styleSheets.length;b++)if(document.styleSheets[b].href==a)return!0;return!1}var a=function(a,b){for(var d=0;d<b.length;d++){var c=b[d];if(0==c.complete||"undefined"!=typeof c.readyState&&4>c.readyState){var g=c.getAttribute("src")||c.currentSrc;"undefined"!=typeof c.readyState&&0==c.readyState?c.addEventListener("loadstart",function(a){var b=a.getAttribute("src")||a.currentSrc;window.ezorqs(a,b)}):(g=c.getAttribute("src")||c.currentSrc,window.ezorqs(c,
+	g));c.addEventListener("load",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("loadeddata",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)});c.addEventListener("error",function(a){var b=a.currentTarget.getAttribute("src")||a.srcElement.currentSrc;window.ezorqe(a,b)})}}};a("img",document.querySelectorAll("img"));a("video",document.querySelectorAll("video"));a("audio",document.querySelectorAll("audio"));
+	(function(a){for(var c=0;c<a.length;c++){var d=a[c];if(("preload"==d.getAttribute("rel")||"stylesheet"==d.getAttribute("rel"))&&null!=d.getAttribute("href")&&b(d.getAttribute("href"))){window.ezorqs(d,d.getAttribute("href"));var e=document.createElement("img");e.onerror=function(a){"undefined"!=typeof a.path&&"undefined"!=typeof a.path[0].currentSrc?window.ezorqe(d,a.path[0].currentSrc):"undefined"!=typeof a.srcElement&&"undefined"!=typeof a.srcElement.href&&window.ezorqe(d,a.srcElement.href)};e.src=
+	d.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script>
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC004_PUT_Update_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC005_DELETE_Employee_Record *******************
+[main] INFO  EmployeeRestAPI  - Response Body containing All Employees ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - Employee ID Selected for DELETE is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>64
+[main] WARN  EmployeeRestAPI  - Content Lenght is less than 100
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>276a34bae313c3741e3a3b981e876356
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"failed","message":"Error! Not able to delete record"}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>824
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC005_DELETE_Employee *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2171
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>2139
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1658
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1609
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1428
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>1007
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Started TC001_GET_All_Employees *******************
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Encoding *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>gzip
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Type *******************
+[main] INFO  EmployeeRestAPI  - Header Content Type is ==>application/json;charset=utf-8
+[main] INFO  EmployeeRestAPI  - ******************* Checking Content Length *******************
+[main] INFO  EmployeeRestAPI  - Content Length is ==>595
+[main] INFO  EmployeeRestAPI  - ******************* Checking Cookies *******************
+[main] INFO  EmployeeRestAPI  - Content Enconding is ==>null
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Body *******************
+[main] INFO  EmployeeRestAPI  - Response Body ==>{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+[main] INFO  EmployeeRestAPI  - ******************* Checking Response Time *******************
+[main] INFO  EmployeeRestAPI  - Response Time is ==>3362
+[main] WARN  EmployeeRestAPI  - Response Time is greater than 2000
+[main] INFO  EmployeeRestAPI  - ******************* Checking Server Type *******************
+[main] INFO  EmployeeRestAPI  - Server Content Type is ==>nginx/1.16.0
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Code *******************
+[main] INFO  EmployeeRestAPI  - Status Code is ==>200
+[main] INFO  EmployeeRestAPI  - ******************* Checking Status Line *******************
+[main] INFO  EmployeeRestAPI  - Status Line is ==>HTTP/1.1 200 OK
+[main] INFO  EmployeeRestAPI  - ******************* Finished TC001_GET_All_Employees *******************

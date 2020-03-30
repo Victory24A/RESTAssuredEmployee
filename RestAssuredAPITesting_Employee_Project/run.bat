@@ -1,0 +1,2 @@
+cd G:\Workspace\Framework\RestAssuredTestNG\RestAssuredAPITesting_Employee_Project
+mvn clean install
